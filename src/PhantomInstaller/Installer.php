@@ -1,6 +1,7 @@
 <?php
 namespace PhantomInstaller;
 
+use Composer\Composer;
 use Composer\Script\Event;
 
 use Composer\Package\Package;
